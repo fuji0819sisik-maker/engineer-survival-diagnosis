@@ -88,7 +88,7 @@ export default function DiagnosisSite() {
         
         <div className="mb-12 text-center">
           <h1 className="text-3xl md:text-5xl font-black tracking-tighter bg-gradient-to-br from-white via-slate-200 to-slate-500 bg-clip-text text-transparent italic">
-            ENGINEER SURVIVAL
+            ITキャリア診断2026
           </h1>
         </div>
 
