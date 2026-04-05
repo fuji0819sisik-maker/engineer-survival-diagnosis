@@ -78,7 +78,7 @@ export default function DiagnosisSite() {
 
   return (
     <div className="min-h-screen bg-slate-950 text-slate-100 font-sans p-4 md:p-8 relative overflow-hidden">
-      
+      <meta name='impact-site-verification' value='6b35cf92-8c80-4313-9ee1-a38183a08c6f'></meta>
       <div className="absolute inset-0 z-0 opacity-20" 
            style={{ backgroundImage: 'linear-gradient(#1e293b 1px, transparent 1px), linear-gradient(90deg, #1e293b 1px, transparent 1px)', backgroundSize: '40px 40px' }}>
       </div>
