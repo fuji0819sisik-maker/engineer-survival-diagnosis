@@ -106,9 +106,9 @@ export default function DiagnosisSite() {
             </button>
             <div className="flex justify-center">
               <a href="https://px.a8.net/svt/ejp?a8mat=4B1DXJ+GEM0VM+5B0Y+HVNAP" rel="nofollow">
-              <img border="0" width="300" height="250" alt="" src="https://www24.a8.net/svt/bgt?aid=260405191992&wid=001&eno=01&mid=s00000024757003003000&mc=1" />
+              <img style={{ border: 0 }} width="300" height="250" alt="" src="https://www24.a8.net/svt/bgt?aid=260405191992&wid=001&eno=01&mid=s00000024757003003000&mc=1" />
               </a>
-              <img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4B1DXJ+GEM0VM+5B0Y+HVNAP" alt="" />
+              <img style={{ border: 0 }} width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4B1DXJ+GEM0VM+5B0Y+HVNAP" alt="" />
             </div>
           </div>
         )}
@@ -240,9 +240,9 @@ export default function DiagnosisSite() {
               )}
               <div className="flex justify-center">
                 <a href="https://px.a8.net/svt/ejp?a8mat=4B1DXJ+GEM0VM+5B0Y+HVNAP" rel="nofollow">
-                <img border="0" width="300" height="250" alt="" src="https://www24.a8.net/svt/bgt?aid=260405191992&wid=001&eno=01&mid=s00000024757003003000&mc=1" />
+                <img style={{ border: 0 }} width="300" height="250" alt="" src="https://www24.a8.net/svt/bgt?aid=260405191992&wid=001&eno=01&mid=s00000024757003003000&mc=1" />
                 </a>
-                <img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4B1DXJ+GEM0VM+5B0Y+HVNAP" alt="" />
+                <img style={{ border: 0 }} width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4B1DXJ+GEM0VM+5B0Y+HVNAP" alt="" />
               </div>
             </div>
 
