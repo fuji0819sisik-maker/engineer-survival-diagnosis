@@ -104,6 +104,12 @@ export default function DiagnosisSite() {
             >
               診断を開始する <ArrowRight className="group-hover:translate-x-1 transition-transform" />
             </button>
+            <div className="flex justify-center">
+              <a href="https://px.a8.net/svt/ejp?a8mat=4B1DXJ+GEM0VM+5B0Y+HVNAP" rel="nofollow">
+              <img border="0" width="300" height="250" alt="" src="https://www24.a8.net/svt/bgt?aid=260405191992&wid=001&eno=01&mid=s00000024757003003000&mc=1" />
+              </a>
+              <img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4B1DXJ+GEM0VM+5B0Y+HVNAP" alt="" />
+            </div>
           </div>
         )}
 
@@ -232,9 +238,11 @@ export default function DiagnosisSite() {
                   <p className="text-slate-300 text-lg">現在の「作業中心」スタイルは危険信号です。AIを使いこなす側へのリスキリングを急ぎましょう。</p>
                 </div>
               )}
-              <div className="grid md:grid-cols-2 gap-4 pt-4">
-                <button className="p-4 bg-blue-600 rounded-2xl font-bold hover:scale-105 transition-transform">キャリア戦略を相談する</button>
-                <button className="p-4 bg-slate-800 rounded-2xl font-bold border border-slate-700 hover:bg-slate-700 transition-colors">今の年収を診断</button>
+              <div className="flex justify-center">
+                <a href="https://px.a8.net/svt/ejp?a8mat=4B1DXJ+GEM0VM+5B0Y+HVNAP" rel="nofollow">
+                <img border="0" width="300" height="250" alt="" src="https://www24.a8.net/svt/bgt?aid=260405191992&wid=001&eno=01&mid=s00000024757003003000&mc=1" />
+                </a>
+                <img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4B1DXJ+GEM0VM+5B0Y+HVNAP" alt="" />
               </div>
             </div>
 
